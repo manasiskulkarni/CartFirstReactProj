@@ -1,0 +1,16 @@
+.Column1 {
+  background-color: cadetblue;
+}
+
+.Column2 {
+  background-color: burlywood;
+}
+
+.Row {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+}

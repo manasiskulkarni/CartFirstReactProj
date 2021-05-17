@@ -1,0 +1,10 @@
+.Add {
+  position: fixed;
+  background-color: grey;
+  width: 30%;
+  box-shadow: #ccc;
+  padding: 16px;
+  left: 5%;
+  top: 73%;
+  cursor: pointer;
+}

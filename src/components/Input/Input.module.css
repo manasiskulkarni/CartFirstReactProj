@@ -1,0 +1,22 @@
+.Input {
+  position: fixed;
+  z-index: 500;
+  background-color: white;
+  width: 30%;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px black;
+  padding: 16px;
+  left: 5%;
+  top: 25%;
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+}
+
+.Input li {
+  cursor: pointer;
+}
+
+.Input li :hover,
+.Input li:active {
+  background-color: #c0dd;
+}
