@@ -31,8 +31,8 @@ class Layout extends Component {
   //     this.setState({ selected: !selected });
   //   };
 
-  showFruits = (fruitSelected) => {
-    this.setState({ selected: fruitSelected });
+  showFruits = (fruitSelect1) => {
+    this.setState({ selected: fruitSelect1 });
   };
 
   render() {
